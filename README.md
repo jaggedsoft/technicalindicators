@@ -1,4 +1,7 @@
-[![Travis CI](https://img.shields.io/travis/anandanand84/technicalindicators.svg?style=flat-square)](https://travis-ci.org/anandanand84/technicalindicators)
+[![GitHub last commit](https://img.shields.io/github/last-commit/NotAlfred/technicalindicators.svg?maxAge=2400)](#)
+[![npm downloads](https://img.shields.io/npm/dt/shark-indicators.svg?maxAge=7200)](https://www.npmjs.com/package/shark-indicators)
+
+[![NPM](https://nodei.co/npm/shark-indicators.png?compact=true)](https://npmjs.org/package/shark-indicators)
 
 # TechnicalIndicators
 
@@ -356,3 +359,8 @@ open "http://localhost:5444/testdocs.html"
 1. LTC: `LLTUhKBRKs9sbW9F8MFQm7VVdZ1dJnXzGc`
 1. BTC: `1FGeJHoj7tjeLrm4JNtyPWTdBKPJjcqP6Y`
 1. BCH: `1AUFc8CEfHVjnoixbqTbX62WV8DZkpC1DU`
+
+
+[![Stargazers over time](https://starcharts.herokuapp.com/NotAlfred/technicalindicators.svg)](https://starcharts.herokuapp.com/NotAlfred/technicalindicators)
+
+[![Views](http://hits.dwyl.io/NotAlfred/technicalindicators.svg)](http://hits.dwyl.io/NotAlfred/technicalindicators)
